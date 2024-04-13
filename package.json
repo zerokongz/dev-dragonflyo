@@ -1,0 +1,15 @@
+{  
+  "name": "dev-dragonflyo",  
+  "version": "1.3.8",  
+  "description": "dev扩展格式",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/dev-dragonflyo"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/dev-dragonflyo"  
+}
